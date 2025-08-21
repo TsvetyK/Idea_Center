@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA\\3.2 Back End Test Automation\\ExamPrep1\\IdeaCenter\\IdeaCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5873F083-1A2B-4EC2-9F95-B64908538A20}|IdeaCenter.csproj|d:\\qa\\3.2 back end test automation\\examprep1\\ideacenter\\ideacenter\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5873F083-1A2B-4EC2-9F95-B64908538A20}|IdeaCenter.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\QA\\3.2 Back End Test Automation\\ExamPrep1\\IdeaCenter\\IdeaCenter\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "D:\\QA\\3.2 Back End Test Automation\\ExamPrep1\\IdeaCenter\\IdeaCenter\\UnitTest1.cs*",
+              "RelativeToolTip": "UnitTest1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T15:43:25.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
